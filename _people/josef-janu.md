@@ -5,7 +5,7 @@ fullname: Ing. Josef Janů  			# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - vary
 img: people/josef-janu.jpg               # 165 x 220
-description: Zastupitel Pirátů v zastupitelstvu Karlovarského kraje, člen předsednictva krajského sdružení Pirátů v Karlovarském kraji # kratký popis, max 160 znaků
+description: Člen rady Karlovarského kraje, člen předsednictva krajského sdružení Pirátů v Karlovarském kraji a předseda místního sdružení Karlovy Vary # kratký popis, max 160 znaků
 mail:
 - josef.janu@pirati.cz
 mob:					+420 606 183 864
